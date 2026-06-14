@@ -10,7 +10,7 @@ Passionate about building scalable backend systems, designing high-performance A
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://aaron-portfolio.buyin.cc)
 [![GitHub](https://img.shields.io/badge/GitHub-AaronDAmin-black?style=for-the-badge\&logo=github)](https://github.com/AaronDAmin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aaron-vyaleveka-04877b369/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:arrowvyaleveka@gmail.com)
 
 ---
